@@ -218,67 +218,67 @@ msgstr "%fkm"
 #. # Next 16 strings are for wind direction, compass points
 #: desklet.js:1461
 msgid "N"
-msgstr "N"
+msgstr "P" #Pohjoinen
 
 #: desklet.js:1461
 msgid "NNE"
-msgstr "NNE"
+msgstr "PIP" #pohjoinen itäpohjoinen
 
 #: desklet.js:1461
 msgid "NE"
-msgstr "NE"
+msgstr "IP" #itäpohjoinen
 
 #: desklet.js:1461
 msgid "ENE"
-msgstr "ENE"
+msgstr "IIP" #itäinen itäpohjoinen
 
 #: desklet.js:1461
 msgid "E"
-msgstr "E"
+msgstr "I" #Itä
 
 #: desklet.js:1461
 msgid "ESE"
-msgstr "ESE"
+msgstr "IIE" #itäinen itäetelä
 
 #: desklet.js:1461
 msgid "SE"
-msgstr "SE"
+msgstr "IE" #itäetelä
 
 #: desklet.js:1461
 msgid "SSE"
-msgstr "SSE"
+msgstr "EIE" #eteläinen itäetelä
 
 #: desklet.js:1461
 msgid "S"
-msgstr "S"
+msgstr "E" #etelä
 
 #: desklet.js:1461
 msgid "SSW"
-msgstr "SSW"
+msgstr "ELE" #eteläinen länsietelä
 
 #: desklet.js:1461
 msgid "SW"
-msgstr "SW"
+msgstr "LE" #länsietelä
 
 #: desklet.js:1461
 msgid "WSW"
-msgstr "WSW"
+msgstr "LLE" #läntinen länsietelä
 
 #: desklet.js:1461
 msgid "W"
-msgstr "W"
+msgstr "L" #Länsi
 
 #: desklet.js:1461
 msgid "WNW"
-msgstr "WNW"
+msgstr "LLP" # läntinen länsipohjoinen
 
 #: desklet.js:1461
 msgid "NW"
-msgstr "NW"
+msgstr "LP" #Länsipohjoinen
 
 #: desklet.js:1461
 msgid "NNW"
-msgstr "NNW"
+msgstr "PLP" #pohjoinen länsipohjoinen
 
 #: desklet.js:1515
 msgid "Tornado"
